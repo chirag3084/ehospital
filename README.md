@@ -67,5 +67,7 @@ Run the project with:
 ```bash
 python manage.py runserver
 ```
-# Happy Learning 
+# Happy Learning
+# Learn with fun
+
 
