@@ -68,13 +68,6 @@ Run the project with:
 python manage.py runserver
 ```
 
-### Testing
-...
-
-Using [pip](https://pip.pypa.io/en/stable/):
-```bash
-pytest
-```
 
 
 
