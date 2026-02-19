@@ -76,5 +76,5 @@ Using [pip](https://pip.pypa.io/en/stable/):
 pytest
 ```
 
-🔙 [Return](#table-of-contents)
+
 
